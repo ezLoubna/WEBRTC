@@ -1,0 +1,22 @@
+{
+  "name": "peer-messenger-client",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.16.3",
+    "handlebars": "^4.0.11",
+    "html": "^1.0.0",
+    "jquery": "^2.2.4",
+    "peer": "^0.2.8",
+    "peerjs": "^0.3.14",
+    "php": "0.0.1",
+    "picnic": "^4.1.2"
+  },
+  "description": "Application webrtc with express",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "essaidy",
+  "license": "MIT"
+}
